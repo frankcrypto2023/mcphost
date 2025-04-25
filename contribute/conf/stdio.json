@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "qngserver": {
+            "command": "./qng_server/qng_server.exe",
+            "args": [
+            ]
+        }
+    }
+}
+

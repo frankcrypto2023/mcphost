@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "qngserver": {
+            "url": "http://localhost:8080/sse",
+            "headers": {
+                "Authorization": "Bearer 1234567890"
+            }
+        }
+    }
+}
+
