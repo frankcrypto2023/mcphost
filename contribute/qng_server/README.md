@@ -9,7 +9,7 @@
 ```bash
 # start server
 .\qng_server -t sse
-.\mcphost.exe  -m ollama:qwen2.5:3b --config .\conf\stdio.json --debug
+.\mcphost.exe  -m ollama:qwen2.5:3b --config .\conf\sse.json --debug
 ```
 
 ## MCP 协议需要实现的路由
